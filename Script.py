@@ -12,13 +12,13 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - PS is an open source project. 
-- Source - https://github.com/Tellyps/botmaker 
+- Source - https://github.com/PS000001/Filter
 
 <b>DEVS:</b>
-- <a href=https://t.me/dhananjaya_ka>PS</a>"""
+- <a href=https://t.me/dhananjaya_ka>AS</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
+- Filter is the feature were users can set automated replies for a particular keyword and KING & QUEEN will respond whenever that keyword hits the message
 
 <b>NOTE:</b>
 1. BOT should have admin privillage.
@@ -40,7 +40,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/PS_MOVIES11)</code>
+<code>[Button Text](buttonurl:https://t.me/+dFSyEylxbVc2ZjI1)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
